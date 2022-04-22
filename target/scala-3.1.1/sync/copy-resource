@@ -1,1 +1,0 @@
-[[{"${BASE}/src/main/resources/logback.xml":["${BASE}/target/scala-3.1.1/classes/logback.xml"]},{"${BASE}/target/scala-3.1.1/classes/logback.xml":["${BASE}/src/main/resources/logback.xml"]}],{"${BASE}/src/main/resources/logback.xml":{"file":"file:///Users/sebastianharko/NL/fp-adventure-1/src/main/resources/logback.xml","lastModified":1648203066714}}]
