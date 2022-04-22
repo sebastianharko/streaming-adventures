@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(42f22f64-e7c4-40da-823b-44c89b069ee1), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sebastianharko/NL/fp-adventure-1/target/scala-3.1.1/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 25 Mar 2022, 11:25:03[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
